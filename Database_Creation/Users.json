@@ -1,0 +1,23 @@
+[
+{
+"_id": "123abc-1",
+"username": "Ministry of Foreign Affairs",
+"password": "1234abcd",
+"s_Question": "What is your favourite Colour?",
+"s_Answer": "Blue"
+},
+{
+ "_id": "123abc-2",
+"username": "Professor Akash Kumar",
+"password": "abcd1234",
+"s_Question": "What is your favourite Colour?",
+"s_Answer": "Magenta"   
+},
+{
+ "_id": "123abc-3",
+"username": "Professor Shameer",
+"password": "abcd4321",
+"s_Question": "What is your favourite Colour?",
+"s_Answer": "Matte Black"   
+}
+]

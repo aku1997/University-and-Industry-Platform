@@ -1,0 +1,24 @@
+[
+{
+   "user_id": "123abc-2",
+    "Profie_Photo": "----",
+    "Name": [{"firstName": "Akash", "lastName": "Kumar"}],    
+    "Bio_of_expert": "Expert in Biotechnology, Gold Medalist in Computer Security",
+    "Majors" : ["Biotechnology", "Computer Security", ""],
+    "Faculty" : "Faculty of Science",
+    "Position in UBD" : "Lecturer",
+    "No. of Publications" : 24,
+    "Forums": [{"Forums Involved" : 10, "Forums Completed" : 5}]
+ },
+ {
+    "user_id": "123abc-3",
+    "Profie_Photo": "----",
+    "Name": [{"firstName": "Mohamed", "lastName": "Shameer"}],    
+    "Bio_of_expert": "Expert in Computer Analytics, Hackathon Champion",
+    "Majors" : ["Classical Physics", "Artificial Intelligence", ""],
+    "Faculty" : "Faculty of Science",
+    "Position in UBD" : "Lecturer",
+    "No. of Publications" : 22,
+    "Forums": [{"Forums Involved" : 8, "Forums Completed" : 2}]
+ }
+]
